@@ -8,7 +8,7 @@ consentforms/
 similarity_cognitive_models_15.rds
 similarity_cognitive_models_30.rds
 similarity_cognitive_models_50.rds
-categorization_cognitive_models.rds
+similarity_pars_likelihoods.csv
 
 *.loc
 *.aux
